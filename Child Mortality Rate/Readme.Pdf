@@ -1,0 +1,7 @@
+A comprehensive exploratory data analysis project to investigate international child mortality rate (CMR) 
+utilizing Python and more specifically the Numpy, Pandas, Matplotlib, and StatsModels packages. 
+In this project, I was interested in identifying the association between CMR and improved sanitation, 
+government spending, and life expectancy. I performed thorough data cleaning, data exploration, 
+and a multiple linear regression to prove the negative association between CMR and the aforementioned factors. 
+
+This project is part of the Udacity's Data Analyst Nanodegree. 
